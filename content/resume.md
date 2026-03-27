@@ -18,7 +18,7 @@
 
 ## 求職目標 / 自我簡介（約 2–4 句）
 
-十年以上軟體開發經驗，橫跨 Mobile（iOS/Android）與 Web 前後端；歷任工程師、系統分析師、技術負責人與 Team Lead，能兼顧技術深度與團隊協作。近年投入 **AI 輔助開發與工具鏈** 的研究與實作，將 LLM、程式碼生成與自動化流程融入日常開發，以提升產出效率與品質。善於需求分析與跨部門溝通，在開發與產品之間扮演橋樑。
+十年以上軟體開發經驗，橫跨 Mobile（iOS/Android）與 Web 前後端；歷任工程師、系統分析師、技術負責人與 Team Lead，能兼顧技術深度與團隊協作。曾參與多個產品與專案，能靈活切換技術實作與團隊協作管理。近年投入 **AI 輔助開發與工具鏈** 的研究與實作，將 LLM、程式碼生成與自動化流程融入日常開發，以提升產出效率與品質。善於需求分析與跨部門溝通，在開發與產品之間扮演橋樑。
 
 ---
 
@@ -26,31 +26,44 @@
 
 ### 羅賓斯科技股份有限公司（RobinsTech）
 - **職稱**：App 工程師
-- **任職期間**：2024.05 – 2025.07（1 年 3 個月）
+- **任職期間**：2024.05 – 至今
 - **工作型態**：遠端
 - **工作內容與成果**：
   - 設計並實作駕駛行為分析 Android App，運用手機感測器資料分析駕駛習慣與風險指標，量化評分後提供保險業者作為個人化保費評估參考。
   - 打造 Android 翻譯 App，支援語音／文字即時翻譯與對話，串接智慧型後端（AI），協助用戶打破語言隔閡，使用體驗直覺流暢。
 
 ### Metropia, Inc.
-- **職稱**：Senior Software Engineer
-- **任職期間**：2016.08 – 2024.04（7 年 9 個月）
+- **職稱**：System Analyst
+- **任職期間**：2023.05 – 2024.04
 - **工作型態**：遠端
-- **專案與職責**：
-  - **Metropia App 專案**：Android 開發維護。
-  - **共乘接駁服務專案**：擔任 Team Lead；負責 Android App 開發維護、Backend Portal 開發維護、Dashboard 開發維護。
-  - **ConnectSmart App 專案**：擔任 System Analyst / PM，協調需求與開發時程。
+- **工作內容與成果**：
+  - 在 Umaji 計畫行程規劃模組中，協調產品、設計與前後端團隊，分析使用者需求與功能規格，協助制定開發時程與進度管理。
+  - 透過明確需求對齊與敏捷流程導入，提升團隊協作效率，並確保行程規劃模組如期上線。
+
+### Metropia, Inc.
+- **職稱**：Software Development Team Lead
+- **任職期間**：2021.12 – 2023.02
+- **工作型態**：遠端
+- **工作內容與成果**：
+  - 擔任交通部 Umaji 計畫預約共乘媒合模組技術負責人，主導 Android App 與後端開發。
+  - 跨部門協調前端、設計與 QA 流程，規劃系統架構與開發時程，成功交付並投入實地應用，協助改善偏鄉交通接駁問題。
+
+### Metropia, Inc.
+- **職稱**：Senior Software Engineer
+- **任職期間**：2016.08 – 2021.11
+- **工作型態**：遠端
+- **工作內容與成果**：
+  - 參與交通部 Umaji 計畫預約共乘媒合模組開發，負責 Android App 介面與後端 API 設計實作，協助改善偏遠地區交通接駁與資源調度問題。
 
 ### intumit
 - **職稱**：Mobile Application Developer
 - **任職期間**：2015.07 – 2016.07（1 年 1 個月）
 - **工作型態**：台灣臺中市 · 現場
 - **工作內容與成果**：
-  - **Metropia App 專案**：Android App 開發維護。
-  - **智能客服專案**：Web Dashboard 開發維護。
+  - 協助客戶維護交通路線與時程規劃應用程式，修復既有系統錯誤並優化流程與介面設計，提升使用者體驗與整體穩定性。
 
 ### 心嚮科技 NOD
-- **職稱**：Co-Founder
+- **職稱**：Co-Founder, Software Engineer
 - **任職期間**：2011.12 – 2015.06（3 年 7 個月）
 - **工作型態**：遠端
 - **工作內容與成果**：
@@ -71,11 +84,11 @@
 ## 技能
 
 ### 開發平台與框架
-- **Web**：Vue.js (Vue 2、Vue 3)、React.js、Laravel、Lumen、CodeIgniter 4、Django REST、Node.js、jQuery、Ant Design Vue
+- **Web**：Vue.js (Vue 2、Vue 3)、React.js、Laravel、Lumen、CakePHP、CodeIgniter 4、Django REST、Node.js、jQuery、Ant Design Vue
 - **行動裝置 / Mobile**：Flutter、Android、iOS、Android SDK、Swift、UIKit、WKWebView、MVVM、行動應用程式開發
 
 ### 程式語言
-- Java、JavaScript、Kotlin、Swift、PHP、Python、HTML、CSS、SQL
+- Java、JavaScript、Kotlin、Swift、PHP、Python、C++、HTML、CSS、SQL
 
 ### 開發工具與環境
 - Docker、Docker Compose、Git、Xcode、Jira、Linux、Nginx、Swagger
@@ -84,7 +97,7 @@
 - Google Cloud (GCP)、Amazon Web Services (AWS)、EC2、RDS、Firebase（Cloud Messaging、推播）、Vertex AI Search (Discovery Engine)
 
 ### 資料庫
-- MySQL、Redis（快取、Queue、Socket pub/sub）
+- MySQL、MariaDB、PostgreSQL、Microsoft SQL Server、SQLite、Firebase Realtime Database、Redis（快取、Queue、Socket pub/sub）
 
 ### API、即時通訊與整合
 - RESTful API、JWT、Socket.IO、Laravel Notifications
